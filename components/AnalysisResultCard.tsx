@@ -46,7 +46,7 @@ const AnalysisResultCard = ({ result }) => {
       </div>
 
       <div className="space-y-6">
-        <div>
+       {/* <div>
           <h3 className="text-xl font-semibold mb-3 flex items-center gap-2 text-gray-200">
             <Lightbulb className="h-6 w-6 text-blue-400"/>
             Analysis Explanation
@@ -54,7 +54,7 @@ const AnalysisResultCard = ({ result }) => {
           <div className="bg-gray-900/60 p-4 rounded-lg border border-gray-700">
             <p className="text-gray-300 whitespace-pre-wrap leading-relaxed">{explanation}</p>
           </div>
-        </div>
+        </div>*/}
 
         {red_flags && red_flags.length > 0 && (
           <div>
