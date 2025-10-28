@@ -58,7 +58,7 @@ A React-based web application that uses Google's Gemini AI to detect and analyze
    npm run dev
    ```
 
-5. Open your browser and navigate to the URL shown in the terminal (typically http://localhost:5173)
+5. Open your browser and navigate to the URL shown in the terminal 
 
 ## Usage
 
