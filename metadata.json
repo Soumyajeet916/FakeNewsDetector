@@ -1,0 +1,5 @@
+
+{
+  "name": "Veritas: AI Fake News Detector",
+  "description": "An AI-powered tool that analyzes news articles to detect potential signs of fake news, bias, and misinformation. Paste in an article's text to receive a detailed analysis, including a verdict, confidence score, and a breakdown of red flags."
+}
